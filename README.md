@@ -11,17 +11,12 @@ It’s good to use. 🙆‍♂️
 
 ### Quick Start
 
-{% codeblock lang:py %}
-import botlegram
+    import botlegram
 
-BOT_TOKEN = "{{your_bot_token}}"
-WEBHOOK = "{{your_host}}" + BOT_TOKEN + '/'
-bot = botlegram.Bot(BOT_TOKEN, WEBHOOK)
-{% endcodeblock %}
-
-{% codeblock lang:sh %}
->>> * [Bot] Webhook is already set
-{% endcodeblock %}
+    BOT_TOKEN = "{{your_bot_token}}"
+    WEBHOOK = "{{your_host}}" + BOT_TOKEN + '/'
+    bot = botlegram.Bot(BOT_TOKEN, WEBHOOK)
+    >>> * [Bot] Webhook is already set
 
 Now we have a Telegram bot 🤖
 
