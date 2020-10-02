@@ -5,10 +5,8 @@ import pytest
 import requests as rq
 from botlegram.utils.send import Send
 
-#token = os.environ['TOKEN']
-#chat_id = os.environ['CHAT_ID']
-token = "1356390042:AAH9lgjFdlIq9eQsqoxxYRXzx3XchVfPAvs"
-chat_id = 1304217168
+token = os.environ['TOKEN']
+chat_id = os.environ['CHAT_ID']
 api = "https://api.telegram.org/bot" + token + "/"
 test = Send()
 test.API = api
