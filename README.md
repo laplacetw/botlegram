@@ -1,11 +1,11 @@
-![](https://img.shields.io/github/license/laplacetw/botlegram) [![Documentation Status](https://readthedocs.org/projects/botlegram/badge/?version=latest)](https://botlegram.readthedocs.io/en/latest/?badge=latest)
+![](https://img.shields.io/github/license/laplacetw/botlegram) [![Documentation Status](https://readthedocs.org/projects/botlegram/badge/?version=latest)](https://botlegram.readthedocs.io/en/latest/?badge=latest) [![Build Status](https://travis-ci.org/laplacetw/botlegram.svg?branch=master)](https://travis-ci.org/laplacetw/botlegram)
 
 # Botlegram
 A Telegram Bot Package for Python.
 
+- Release v0.0.1
 - Based on [Telegram Bot API](https://core.telegram.org/bots/api).
 - Stay flexible and keep function naming consistent with the API.
-- Release v0.0.1
 
 It’s good to use. 🙆‍♂️
 
