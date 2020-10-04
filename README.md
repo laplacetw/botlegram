@@ -3,7 +3,7 @@
 # Botlegram
 A Telegram Bot Package for Python.
 
-- Release v0.0.1
+- Release v0.0.2
 - Based on [Telegram Bot API](https://core.telegram.org/bots/api).
 - Stay flexible and keep function naming consistent with the API.
 
